@@ -42,24 +42,24 @@
 </div>
 
 ###
+<br clear="both">
 
 <h2 align="left">Skills</h2>
 
-###
+ 
 
-<p align="left">🟢 Flutter And Dart<br> 🟢 Firebase and MongoDB  <br> 🟢 Hive,SharedPref,SqfLite <br> 🟢 RiverPod Statemanagement <br> 🟢 MVVM Architecture</p>
-
-###
+<p align="left">
+ 🟢 Flutter And Dart<br>🟢Data Structures & Algorithms<br>🟢 Firebase, MongoDB & Backend APIs   <br> 🟢 Hive,SharedPref,SqfLite <br> 🟢 State Management (Riverpod, Provider) <br> 🟢 MVVM Architecture</p>
+<br>
+ 
 <h2>Profiles</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohammad-saad-malik-5b9821266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-saad-malik-5b9821266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="46" alt="linkedin logo"  align="center" />
   </a>
   <a href="https://leetcode.com/u/itskakarot/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="46" alt="linkedin logo" align="center" />
   </a>
- 
-  
 
 </div>
 
@@ -73,6 +73,12 @@
 </div>
 
 ###
+<div >
+ <h2>📬 Connect with me</h2>
+ <h3>📧saadmalikin@gmail.com</h3>
+ <h3><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="20" width"20"/><a href="https://www.linkedin.com/in/mohammad-saad-malik-5b9821266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Mohammad Saad Malik</a></h3>
+ 
+</div>
  
 <div align="right">
   <img src="https://profile-counter.glitch.me/itsSaadMalik/count.svg?"  />
