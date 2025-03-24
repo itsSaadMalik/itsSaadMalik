@@ -67,10 +67,6 @@
 
 <div style=" height : 80px; "></div>
  <br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsSaadMalik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsSaadMalik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"/>
-</div>
 
 ###
 <div >
@@ -79,7 +75,11 @@
  <h3><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="20" width"20"/><a href="https://www.linkedin.com/in/mohammad-saad-malik-5b9821266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Mohammad Saad Malik</a></h3>
  
 </div>
- 
+ <br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSaadMalik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsSaadMalik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"/>
+</div>
 <div align="right">
   <img src="https://profile-counter.glitch.me/itsSaadMalik/count.svg?"  />
 </div>
