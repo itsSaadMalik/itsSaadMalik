@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Saad, a Passionate FullStack Flutter Developer</p>
+<p align="left">I'm <b> Saad</b>, a Passionate <b>FullStack Flutter Developer</b></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Node JS for backend .<br> 👩‍💻Design And Develope Scalable Software Solutions<br>🔢Problem Solving <br><br><br>I'm a Passionate Mobile Appplication developer, i like solving problems and developing best possible solutions for the same ,Welcome/Accept Any and Every challenge/Opportunity coming My Way 🚀</p>
+<p align="left">👨‍🎓Am a <b> Computer Science</b> Graduate✨ Creating bugs since 2020<br>📚 I'm currently learning Node JS for backend .<br> 👩‍💻Design And Develope Scalable Software Solutions<br>🔢Problem Solving <br><br><br>I'm a Passionate Mobile Appplication developer, i like solving problems and developing best possible solutions for the same ,Welcome/Accept Any and Every challenge/Opportunity coming My Way 🚀</p>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">🟢 Flutter And Dart<br> 🟢 Firebase and MongoDB  <br> 🟢 Hive,SharedPref,SqfLite</p>
+<p align="left">🟢 Flutter And Dart<br> 🟢 Firebase and MongoDB  <br> 🟢 Hive,SharedPref,SqfLite <br> 🟢 RiverPod Statemanagement <br> 🟢 MVVM Architecture</p>
 
 ###
 <h2>Profiles</h2>
