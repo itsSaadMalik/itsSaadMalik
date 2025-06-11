@@ -16,10 +16,10 @@
 
 <h2 align="left">Projects</h2>
 
- <p><a href="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description"><img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/myvidyapeeth_logo.png" width="77" height="77" align="center"> <b>MyVidyapeeth App</b> </a></p>
+ <p><a href="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description"><img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/raw/main/launcher_icon-removebg-preview.png" width="77" height="77" align="center"> <b>MyVidyapeeth App</b> </a></p>
  <p><a href="https://github.com/itsSaadMalik/Qaza-Salat-app-Description"><img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/icon.png" width="52" height="55" align="center">   <b> 
    Qaza Salat</b> </a></p>
- <p><a href="https://github.com/itsSaadMalik/MyMed-App-description"><img src="https://github.com/itsSaadMalik/MyMed-App-description/blob/main/MyMed_icon.jpg" width="77" height="77" align="center"> <b>MyMed App</b> </a></p>
+ <p><a href="https://github.com/itsSaadMalik/MyMed-App-description"><img src="https://github.com/itsSaadMalik/MyMed-App-description/blob/main/time3-removebg-preview.png"   width="77" height="77" align="center"> <b>MyMed App</b> </a></p>
  
  
 <br clear="both">
