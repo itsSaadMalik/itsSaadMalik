@@ -55,7 +55,7 @@
  
 <h2>Profiles</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohammad-saad-malik-5b9821266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEAJcSzb0n1jAAAAZge_lw4scsijeQ2_XLFqHFRACIplcIj4UgDRrEyFxlvMpwznjhpEdW3fgyMRn0JbvrduNdzW-RGRdOj3WsgEpEuGq0XtbZXel8XkDQp-3nRAh97x_PJzqA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaad-malik-5b9821266" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="46" alt="linkedin logo"  align="center" />
   </a>
   <a href="https://leetcode.com/u/itskakarot/" target="_blank">
@@ -73,7 +73,7 @@
 <div >
  <h2>📬 Connect with me</h2>
  <h3>📧saadmalikin@gmail.com</h3>
- <h3><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="20" width"20"/><a href="https://www.linkedin.com/in/mohammad-saad-malik-5b9821266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Mohammad Saad Malik</a></h3>
+ <h3><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="20" width"20"/><a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEAJcSzb0n1jAAAAZge_lw4scsijeQ2_XLFqHFRACIplcIj4UgDRrEyFxlvMpwznjhpEdW3fgyMRn0JbvrduNdzW-RGRdOj3WsgEpEuGq0XtbZXel8XkDQp-3nRAh97x_PJzqA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaad-malik-5b9821266"> Mohammad Saad Malik</a></h3>
  
 </div>
  <br>
