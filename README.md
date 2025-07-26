@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" width="32" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" width="32" />
- 
+ <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" height="40" alt="supabase logo" width="32" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> -->
 </div>
 
