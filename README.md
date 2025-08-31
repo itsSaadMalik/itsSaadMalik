@@ -50,7 +50,7 @@
  
 
 <p align="left">
- 🟢 Flutter And Dart<br>🟢Data Structures & Algorithms<br>🟢 Firebase, MongoDB & Backend APIs   <br> 🟢 Hive,SharedPref,SqfLite <br> 🟢 State Management (Riverpod, Provider) <br> 🟢 MVVM,Clean Architecture </p>
+ 🟢 Flutter And Dart<br>🟢Data Structures & Algorithms<br>🟢 Firebase, MongoDB & Backend APIs   <br> 🟢 Hive,SharedPref,SqfLite <br> 🟢 State Management (Riverpod,Bloc,Provider) <br> 🟢 MVVM,Clean Architecture </p>
 <br>
  
 <h2>Profiles</h2>
